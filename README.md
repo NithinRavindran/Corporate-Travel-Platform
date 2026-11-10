@@ -1,3 +1,15 @@
+<div align="center">
+
+<img src="assets/corporate-travel-banner.svg" width="100%" alt="Corporate Travel Platform — Product Case Study" />
+
+**Corporate Travel Management · Product Strategy · Workflow Design**
+
+[Main Portfolio](https://github.com/NithinRavindran/Portfolio) · [Product Case Studies](https://github.com/NithinRavindran/PM) · [LinkedIn](https://www.linkedin.com/in/nithin-ravindran-422895103/)
+
+</div>
+
+---
+
 # Corporate Travel Platform
 
 **Product Management Portfolio | Corporate Travel Management (CTM)**
@@ -105,4 +117,4 @@ This repository demonstrates product management across discovery, strategy, requ
 
 ## Maintainer
 
-Nithin Ravindran · [GitHub](https://github.com/NithinRavindran)
+Nithin Ravindran · [GitHub](https://github.com/NithinRavindran) · [LinkedIn](https://www.linkedin.com/in/nithin-ravindran-422895103/) · [Portfolio](https://github.com/NithinRavindran/Portfolio)
