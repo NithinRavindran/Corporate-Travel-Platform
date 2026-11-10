@@ -1,17 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Corporate Travel Platform</title>
-  <desc id="desc">Policy-led travel workflows, trip management and spend intelligence</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1220"/><stop offset="1" stop-color="#142B3A"/></linearGradient>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5CC8A1" stop-opacity=".95"/><stop offset="1" stop-color="#6EA8FF" stop-opacity=".9"/></linearGradient>
-  </defs>
-  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
-  <circle cx="1020" cy="40" r="210" fill="#5CC8A1" opacity=".07"/>
-  <circle cx="1120" cy="260" r="150" fill="#6EA8FF" opacity=".07"/>
-  <path d="M760 0 L1200 0 L1200 300 L930 300 Z" fill="#FFFFFF" opacity=".025"/>
-  <rect x="72" y="68" width="6" height="164" rx="3" fill="url(#line)"/>
-  <text x="108" y="132" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="42" font-weight="700">Corporate Travel Platform</text>
-  <text x="110" y="180" fill="#B8C7D9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21">Policy-led travel workflows, trip management and spend intelligence</text>
-  <text x="110" y="225" fill="#5CC8A1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="3">NITHIN RAVINDRAN  /  PRODUCT + TECHNOLOGY</text>
-  <g fill="none" stroke="url(#line)" stroke-width="2" opacity=".75"><path d="M890 115h160l42 42h48"/><path d="M890 185h105l32-32h113"/><circle cx="890" cy="115" r="6" fill="#5CC8A1"/><circle cx="890" cy="185" r="6" fill="#5CC8A1"/><circle cx="1140" cy="157" r="6" fill="#6EA8FF"/></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+<title id="title">Corporate Travel Platform</title>
+<desc id="desc">A modern corporate travel product portfolio featuring policy-aware booking, trip management and spend intelligence.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071b25"/><stop offset=".55" stop-color="#0d3440"/><stop offset="1" stop-color="#10243b"/></linearGradient>
+  <linearGradient id="mint" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5de3bf"/><stop offset="1" stop-color="#73b8ff"/></linearGradient>
+  <radialGradient id="aura"><stop offset="0" stop-color="#52d6bc" stop-opacity=".18"/><stop offset="1" stop-color="#52d6bc" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#b4d9e3" stroke-opacity=".055"/></pattern>
+  <filter id="blur"><feGaussianBlur stdDeviation="16"/></filter>
+</defs>
+<rect width="1600" height="520" rx="30" fill="url(#bg)"/>
+<rect width="1600" height="520" rx="30" fill="url(#grid)"/>
+<circle cx="1260" cy="250" r="350" fill="url(#aura)"/>
+<path d="M850 80 C1030 35 1075 180 1210 180 S1370 70 1510 125" fill="none" stroke="#5de3bf" stroke-opacity=".22" stroke-width="2" stroke-dasharray="6 12"/>
+<path d="M840 405 C1000 450 1125 330 1240 350 S1390 455 1530 390" fill="none" stroke="#73b8ff" stroke-opacity=".24" stroke-width="2" stroke-dasharray="6 12"/>
+<g opacity=".92">
+  <rect x="950" y="106" width="510" height="298" rx="25" fill="#081d2b" stroke="#49778a" stroke-opacity=".7" stroke-width="2"/>
+  <rect x="980" y="137" width="450" height="55" rx="13" fill="#133849"/>
+  <circle cx="1009" cy="164" r="6" fill="#5de3bf"/><circle cx="1030" cy="164" r="6" fill="#73b8ff"/><circle cx="1051" cy="164" r="6" fill="#f4c66a"/>
+  <rect x="980" y="215" width="126" height="154" rx="14" fill="#102f40"/>
+  <rect x="1123" y="215" width="126" height="154" rx="14" fill="#102f40"/>
+  <rect x="1266" y="215" width="164" height="154" rx="14" fill="#102f40"/>
+  <g fill="#8eafbd" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">
+    <text x="997" y="245">TRIP STATUS</text><text x="1140" y="245">POLICY</text><text x="1283" y="245">SPEND VIEW</text>
+  </g>
+  <g fill="#f3fbff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700">
+    <text x="997" y="280">Itinerary</text><text x="1140" y="280">In policy</text><text x="1283" y="280">Forecast</text>
+  </g>
+  <g stroke-linecap="round" stroke-width="7">
+    <path d="M998 315h80" stroke="#5de3bf" opacity=".8"/><path d="M1141 315h84" stroke="#73b8ff" opacity=".85"/>
+    <path d="M1284 320h118" stroke="#5de3bf" opacity=".22"/><path d="M1284 320h76" stroke="#5de3bf"/>
+  </g>
+  <g fill="#8eafbd" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12"><text x="997" y="347">Booking timeline</text><text x="1140" y="347">Rule checks</text><text x="1283" y="347">Actual · Plan · Budget</text></g>
+</g>
+<g fill="none" stroke="url(#mint)" stroke-width="3" stroke-linecap="round">
+  <path d="M835 265 C930 265 930 265 1010 265"/>
+  <path d="M1080 80 C1165 33 1270 47 1340 92"/>
+</g>
+<g fill="#5de3bf"><circle cx="835" cy="265" r="7"/><circle cx="1010" cy="265" r="5"/></g>
+<g transform="translate(1330 64) rotate(18)">
+  <path d="M0 0l36 12-8 7-18-5-7 16-5-1 2-18L-8 4z" fill="#78c8ff"/>
+</g>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+  <text x="100" y="112" fill="#5de3bf" font-size="18" font-weight="700" letter-spacing="5">TRAVEL EXPERIENCE × ENTERPRISE CONTROL</text>
+  <text x="96" y="220" fill="#f3f8fc" font-size="66" font-weight="750">CORPORATE</text>
+  <text x="96" y="294" fill="#f3f8fc" font-size="66" font-weight="750">TRAVEL PLATFORM</text>
+  <rect x="100" y="333" width="100" height="5" rx="2.5" fill="url(#mint)"/>
+  <text x="100" y="388" fill="#c0d4e0" font-size="24">Policy-aware journeys. Reliable bookings. Spend intelligence.</text>
+  <text x="100" y="450" fill="#8eafbd" font-size="18" letter-spacing="1.5">A PRODUCT MANAGEMENT PORTFOLIO BY NITHIN RAVINDRAN</text>
+</g>
 </svg>
