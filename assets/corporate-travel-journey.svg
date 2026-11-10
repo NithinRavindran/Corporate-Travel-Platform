@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="500" viewBox="0 0 1400 500" role="img" aria-labelledby="title desc">
+<title id="title">Corporate travel product journey</title>
+<desc id="desc">A six-stage corporate travel journey from trip request and policy evaluation to approval, booking, trip management and spend insights.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071b25"/><stop offset="1" stop-color="#112c40"/></linearGradient>
+  <linearGradient id="flow" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5de3bf"/><stop offset="1" stop-color="#73b8ff"/></linearGradient>
+</defs>
+<rect width="1400" height="500" rx="26" fill="url(#bg)"/>
+<g font-family="Inter,Segoe UI,Arial,sans-serif" text-anchor="middle">
+  <text x="700" y="72" fill="#f3f8fc" font-size="28" font-weight="700">ONE CONNECTED JOURNEY. CLEAR CONTROL AT EVERY STEP.</text>
+  <text x="700" y="106" fill="#9eb9c9" font-size="16">From the first travel request through post-trip visibility</text>
+</g>
+<path d="M176 248H1222" stroke="url(#flow)" stroke-width="5" stroke-linecap="round"/>
+<g fill="#071b25" stroke="url(#flow)" stroke-width="4">
+  <circle cx="176" cy="248" r="34"/><circle cx="385" cy="248" r="34"/><circle cx="594" cy="248" r="34"/>
+  <circle cx="803" cy="248" r="34"/><circle cx="1012" cy="248" r="34"/><circle cx="1221" cy="248" r="34"/>
+</g>
+<g fill="#5de3bf" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="800" text-anchor="middle">
+  <text x="176" y="255">01</text><text x="385" y="255">02</text><text x="594" y="255">03</text><text x="803" y="255">04</text><text x="1012" y="255">05</text><text x="1221" y="255">06</text>
+</g>
+<g fill="#f2f8fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" text-anchor="middle">
+  <text x="176" y="320">REQUEST</text><text x="385" y="320">POLICY</text><text x="594" y="320">APPROVAL</text><text x="803" y="320">BOOKING</text><text x="1012" y="320">TRIP CARE</text><text x="1221" y="320">INSIGHTS</text>
+</g>
+<g fill="#9eb9c9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" text-anchor="middle">
+  <text x="176" y="350"><tspan x="176">Traveller / arranger</tspan><tspan x="176" dy="18">trip details and legs</tspan></text>
+  <text x="385" y="350"><tspan x="385">Rules and segment</tspan><tspan x="385" dy="18">level evaluation</tspan></text>
+  <text x="594" y="350"><tspan x="594">Configured authority</tspan><tspan x="594" dy="18">and audit history</tspan></text>
+  <text x="803" y="350"><tspan x="803">Supplier checks and</tspan><tspan x="803" dy="18">booking confirmation</tspan></text>
+  <text x="1012" y="350"><tspan x="1012">Mobile itinerary and</tspan><tspan x="1012" dy="18">post-booking service</tspan></text>
+  <text x="1221" y="350"><tspan x="1221">Spend, compliance</tspan><tspan x="1221" dy="18">and forecast views</tspan></text>
+</g>
+<text x="700" y="448" fill="#5de3bf" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" text-anchor="middle" letter-spacing="1">REQUEST APPROVAL ≠ SUPPLIER BOOKING CONFIRMATION</text>
+</svg>
