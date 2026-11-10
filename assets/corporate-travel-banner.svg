@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Corporate Travel Platform</title>
+  <desc id="desc">Policy-led travel workflows, trip management and spend intelligence</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1220"/><stop offset="1" stop-color="#142B3A"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5CC8A1" stop-opacity=".95"/><stop offset="1" stop-color="#6EA8FF" stop-opacity=".9"/></linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <circle cx="1020" cy="40" r="210" fill="#5CC8A1" opacity=".07"/>
+  <circle cx="1120" cy="260" r="150" fill="#6EA8FF" opacity=".07"/>
+  <path d="M760 0 L1200 0 L1200 300 L930 300 Z" fill="#FFFFFF" opacity=".025"/>
+  <rect x="72" y="68" width="6" height="164" rx="3" fill="url(#line)"/>
+  <text x="108" y="132" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="42" font-weight="700">Corporate Travel Platform</text>
+  <text x="110" y="180" fill="#B8C7D9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21">Policy-led travel workflows, trip management and spend intelligence</text>
+  <text x="110" y="225" fill="#5CC8A1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="3">NITHIN RAVINDRAN  /  PRODUCT + TECHNOLOGY</text>
+  <g fill="none" stroke="url(#line)" stroke-width="2" opacity=".75"><path d="M890 115h160l42 42h48"/><path d="M890 185h105l32-32h113"/><circle cx="890" cy="115" r="6" fill="#5CC8A1"/><circle cx="890" cy="185" r="6" fill="#5CC8A1"/><circle cx="1140" cy="157" r="6" fill="#6EA8FF"/></g>
+</svg>
